@@ -94,7 +94,7 @@ To debug Unity games, you need this repo too: https://github.com/dnSpy/dnSpy-Uni
 
 # Wiki
 
-See the [Wiki](https://github.com/dnSpy/dnSpy/wiki) for build instructions and other documentation.
+See the [Wiki](https://github.com/dnSpyRevived/dnSpy/wiki) for build instructions and other documentation.
 
 # License
 
